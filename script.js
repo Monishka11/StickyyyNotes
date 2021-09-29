@@ -1,7 +1,7 @@
 let random_margin = ["-5px", "1px", "5px", "10px", "7px"];
 let random_colors = ["#c2ff3d","#ff3de8","#3dc2ff","#04e022","#bc83e6","#ebb328"];
 let random_degree = ["rotate(3deg)", "rotate(1deg)", "rotate(-1deg)", "rotate(-3deg)", "rotate(-5deg)", "rotate(-8deg)"];
-let index = 0;
+let index = 5;
 
 window.onload = document.querySelector("#user_input").select();
 
